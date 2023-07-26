@@ -14,7 +14,7 @@
 
 3.The total revenue generated from the sales of "montana" in canada
 
-4.we were asked to determin the country,segment and month the highest were sold.
+4.we were asked to determine the country,segment and month the highest unit of goods were sold.
 
 5.we were also to get the total profit made in December.
 
