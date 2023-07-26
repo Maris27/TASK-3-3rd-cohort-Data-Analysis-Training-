@@ -1,4 +1,4 @@
-  **TASK 3 ON ADAVANCED FUNCTIONS IN EXCEL**
+  **TASK 3 ON ADVANCED FUNCTIONS IN EXCEL**
  
   Learning advanced function enabled us perform complex calculations and manipulate data effectively.we were taught how to us the 
   vlookup,Hlookup,Xlookup and conditional functions,at the end of the session we were assigned to work on same data set with Task 2.
