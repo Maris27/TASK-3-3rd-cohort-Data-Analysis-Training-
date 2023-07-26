@@ -1,19 +1,25 @@
   **TASK 3 ON ADAVANCED FUNCTIONS IN EXCEL**
  
-  Learning adavanced function enabled us perform complex calculations and manipulate data effectively.we were taught how to us the 
+  Learning advanced function enabled us perform complex calculations and manipulate data effectively.we were taught how to us the 
   vlookup,Hlookup,Xlookup and conditional functions,at the end of the session we were assigned to work on same data set with Task 2.
 
    **DATA SET(SALES DATA)**
 
-![image](https://github.com/Maris27/TASK-3-3rd-cohort-Data-Analysis-Training-/assets/140453106/862f1fc0-9ba2-49dd-bdf3-da2bab33922f)
-  
+![image](https://github.com/Maris27/TASK-3-3rd-cohort-Data-Analysis-Training-/assets/140453106/5b6435b1-b6f4-4640-b155-d19b62b16ce0)
+
+
 1.we were asked to calculate the average revenue generated from each sale of a particular product "PASEO"
+
 2.The number of sales made in the Government and midmarket segement
+
 3.The total revenue generated from the sales of "montana" in canada
+
 4.we were asked to determin the country,segment and month the highest were sold.
+
 5.we were also to get the total profit made in December.
 
 **DATA MANIPULATION**
+
 1.Responding to this i used the advanced function of average which is AVERAGEIF, with this function i can ascertain then total average sales of specific product as specified in the task.formular used =AVERAGEIF(C2:C701,"PASEO",J2:J701)
 
 2.In calulating the number of sales made in the two segment,i used the countif function with syntax=countif(range,citeria),with this i could get the specific sales of each of the segment.i worked on the two segments seperately before adding up 
